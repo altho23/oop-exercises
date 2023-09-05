@@ -1,8 +1,8 @@
-#Min øvelser
+# Min øvelser
 
 Nyttige Links:
 
-- [sneak peek til eksamen 2023](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+- [sneak-peek til eksamen 2023](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 - [fagbeskrivelse](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=111413&lang=da)
 
